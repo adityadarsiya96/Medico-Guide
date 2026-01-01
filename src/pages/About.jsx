@@ -136,7 +136,7 @@ const About = () => {
 
         <div className="mt-6 flex justify-center gap-4 flex-wrap">
           <a
-            href="https://forms.gle/vfGBzmrqKSQiW8eeA"
+            href="https://forms.gle/wJqK53RFZzpgqVHw6"
             target="_blank"
             rel="noopener noreferrer"
             className="px-6 py-3 bg-white text-rose-600 font-semibold rounded-md flex items-center gap-2 hover:bg-gray-100 transition"
@@ -145,7 +145,7 @@ const About = () => {
           </a>
 
           <a
-            href="https://forms.gle/Nm4kDvAzytyFmDyCA"
+            href="https://forms.gle/bHeVfxhRuyYdCvyw6"
             target="_blank"
             rel="noopener noreferrer"
             className="px-6 py-3 border-2 border-white text-white font-semibold rounded-md hover:bg-rose-700 transition"

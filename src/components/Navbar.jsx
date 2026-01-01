@@ -20,7 +20,7 @@ const Navbar = () => {
         {/* Desktop Menu */}
         <div className="hidden md:flex items-center gap-8 font-semibold text-gray-700">
           <a
-            href="https://forms.gle/Nm4kDvAzytyFmDyCA"
+            href="https://forms.gle/2Q3f29PzurVg8Mcv6"
             target="_blank"
             rel="noopener noreferrer"
             className="px-4 py-2 rounded-md border-2 border-rose-500 text-rose-500 hover:bg-rose-50 transition"
@@ -29,7 +29,7 @@ const Navbar = () => {
           </a>
 
           <a
-            href="https://forms.gle/vfGBzmrqKSQiW8eeA"
+            href="https://forms.gle/wJqK53RFZzpgqVHw6"
             target="_blank"
             rel="noopener noreferrer"
             className="px-4 py-2 rounded-md bg-rose-500 text-white hover:bg-rose-600 transition shadow-md"
